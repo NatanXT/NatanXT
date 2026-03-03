@@ -1,31 +1,86 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=16A34A&height=140&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hey,+stranger!;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NatanXT&bg_color=0d1117&color=00FF00&line=00CC66&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<h1 align="center">Natan Derick de Souza Leite</h1>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NatanXT&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  Building scalable systems, intelligent platforms and modern web applications.
 </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NatanXT&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="NatanXT GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanXT&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0d1117" />
-</div>
+---
 
-<div align="center"> 
-<a href = "mailto:natan22201@gmail.com"> 
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/natan-derick-b2ba69233" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
-</a> 
-</div>
+## 👨‍💻 About Me
+- Bachelor's Degree in Software Engineering
+- Full Stack Developer (React, Next.js, Node, Prisma, PostgreSQL)
+- Focused on architecture, performance and clean code
+- Experience with industrial and smart factory projects
+- Goiania - Brazil
 
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NatanXT}/count.svg" /></p> 
-<br>
-</div>
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
+## 📊 GitHub Analytics
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NatanXT&theme=github_dark"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NatanXT&theme=github_dark"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NatanXT&bg_color=0d1117&color=86EFAC&line=22C55E&point=16A34A&area=true&hide_border=true"
+  />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=NatanXT&theme=github-dark&hide_border=true&background=0D1117&ring=22C55E&fire=16A34A&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=22C55E&sideLabels=86EFAC&dates=86EFAC"
+  />
+</p>
+
+---
+
+## 🛠 Tech Stack
+### Frontend
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+
+### Backend
+- Node.js
+- NestJS
+- Prisma
+- PostgreSQL
+
+### Tools
+- Docker
+- Git and GitHub
+- AWS
+- RabbitMQ
+
+---
+
+## 📫 Contact
+<p align="center">
+  <a href="mailto:natanxt.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-natanxt.dev%40gmail.com-16A34A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/natan-derick-b2ba69233" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Natan%20Derick-15803D?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NatanXT&color=16A34A&style=flat" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=16A34A&height=140&section=footer"/>
